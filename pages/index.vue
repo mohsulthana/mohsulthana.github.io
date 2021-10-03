@@ -1,11 +1,12 @@
 <template>
-  <div>
-    <Navbar />
-    <Overview />
-    <Work />
-    <Services />
-    <Footer />
-  </div>
+<div>
+  <Navbar />
+  <Overview />
+  <Contact />
+  <Work />
+  <CTA />
+  <Footer />
+</div>
 </template>
 
 <script>
